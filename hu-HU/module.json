@@ -1,0 +1,28 @@
+{
+  "name": "translation-dnd5e-hu",
+  "title": "DnD5e Hungarian Translation",
+  "description": "Add Hungarian language to dnd5e system for FoundryVTT.",
+  "version": "0.1",
+  "minimumCoreVersion" : "9",
+  "compatibleCoreVersion": "9.266",
+  "coreTranslation": "true",
+
+  "systems": [
+    "dnd5e"
+  ],
+  "minimumSystemVersion": "9",
+
+  "author": "balintapro",
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+
+  "languages": [{
+  	"lang": "hu",
+    "name": "Hungarian",
+    "path": "hu.json"
+  }],
+
+  "url": "https://github.com/balintapro/foundryvtt-hu",
+  "manifest": "https://github.com/balintapro/foundryvtt-hu/raw/master/hu-HU/module.json"
+}
