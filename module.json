@@ -3,19 +3,18 @@
   "title": "DnD5e Hungarian Translation",
   "description": "Add Hungarian language to dnd5e system for FoundryVTT.",
   "version": "0.1",
-  "minimumCoreVersion" : "9",
-  "compatibleCoreVersion": "9.266",
-  "coreTranslation": "true",
-
+  "minimumCoreVersion" : "0.8.5",
+  "compatibleCoreVersion":"9",
   "systems": [
     "dnd5e"
   ],
-  "minimumSystemVersion": "9",
+  "minimumSystemVersion": "1.5.2",
 
   "author": "balintapro",
   "scripts": [],
   "styles": [],
   "packs": [],
+  "esmodules": ["babele-register.js"],
 
   "languages": [{
   	"lang": "hu",
