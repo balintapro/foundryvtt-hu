@@ -2,7 +2,7 @@
   "name": "translation-dnd5e-hu",
   "title": "DnD5e Hungarian Translation",
   "description": "Add Hungarian language to dnd5e system for FoundryVTT.",
-  "version": "0.2",
+  "version": "0.2.1",
   "minimumCoreVersion" : "0.8.5",
   "compatibleCoreVersion":"9",
   "systems": [
